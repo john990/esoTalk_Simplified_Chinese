@@ -445,7 +445,7 @@ $definitions["message.logInToSeeAllConversations"] = "<a href='".URL("user/login
 $definitions["message.memberNotFound"] = "没有这个会员";
 $definitions["message.memberNoPermissionView"] = "这个会员没有权限查看话题所属的节点,不能加入.";
 $definitions["message.nameTaken"] = "你输入的名称已经被保留,不能注册";
-$definitions["message.newSearchResults"] = "有新内容更新<a href='%s'>刷新</a>";
+$definitions["message.newSearchResults"] = "有新内容更新,<a href='%s'>请刷新</a>";
 $definitions["message.noActivity"] = "%s 目前还不活跃";
 $definitions["message.noMembersOnline"] = "无人在线.";
 $definitions["message.noNotifications"] = "没有通知.";
