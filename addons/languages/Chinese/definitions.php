@@ -117,6 +117,7 @@ $definitions["Copy permissions from"] = "复制权限";
 $definitions["Create Channel"] = "添加节点";
 $definitions["Create Group"] = "添加小组";
 $definitions["Create Member"] = "添加成员";
+$definitions["Reset"] = "重置";
 $definitions["Customize how users can become members of your forum."] = "开启/关闭新会员注册";
 $definitions["You do not have permission to start conversations in this channel."] = "您没有对该版块的发表话题的权限.";
 
@@ -124,7 +125,7 @@ $definitions["Dashboard"] = "系统";
 $definitions["Default forum language"] = "默认语言";
 $definitions["<strong>Delete</strong> all conversations forever."] = "<strong>永久删除</strong>所有话题.";
 $definitions["Delete Channel"] = "删除节点";
-$definitions["Delete conversation"] = "删除话题";
+$definitions["Delete conversation"] = "永久删除话题";
 $definitions["Delete member"] = "删除会员";
 $definitions["Delete Member"] = "删除会员";
 $definitions["Restore"] = "恢复";
