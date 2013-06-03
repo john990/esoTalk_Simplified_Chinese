@@ -6,7 +6,7 @@ if (!defined("IN_ESOTALK")) exit;
 
 ?>
 <div class='attachments'>
-	<h4><span>Attachments</span></h4>
+	<h4><span>附件:</span></h4>
 	<ul>
 		<?php foreach ($data["attachments"] as $attachment): ?>
 		<li>

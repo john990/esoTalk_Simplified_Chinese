@@ -15,7 +15,7 @@ if (!defined("IN_ESOTALK")) exit;
 		<?php endforeach; ?>
 	</ul>
 
-	<a href='#' class='attachments-button'>Attach a file</a>
+	<a href='#' class='attachments-button'>添加附件</a>
 </div>
 
 <div class='dropZone'>Drop files to upload</div>
