@@ -14,7 +14,7 @@ $config["esoTalk.urls.friendly"] = true;
 $config["esoTalk.urls.rewrite"] = false;
 $config["BBCode.version"] = '1.0.0g3';
 $config["ReportBug.version"] = '1.0.0g3';
-$config["esoTalk.admin.lastUpdateCheckTime"] = 1398334345;
+$config["esoTalk.admin.lastUpdateCheckTime"] = 1398348075;
 $config["esoTalk.admin.welcomeShown"] = true;
 $config["esoTalk.enabledPlugins"] = array (
   0 => 'BBCode',
@@ -41,6 +41,12 @@ $config["esoTalk.members.visibleToGuests"] = '0';
 $config["esoTalk.conversation.editPostTimeLimit"] = -1;
 $config["plugin.Gravatar.default"] = 'retro';
 $config["AboutMe.version"] = '1.0.0g3';
+$config["esoTalk.skin"] = 'Default';
+$config["esoTalk.mobileSkin"] = 'Default';
+$config["skin.Default.headerColor"] = '';
+$config["skin.Default.bodyColor"] = '#BABABA';
+$config["skin.Default.bodyImage"] = false;
+$config["skin.Default.noRepeat"] = false;
 
-// Last updated by: john (61.149.231.96) @ Thu, 24 Apr 2014 10:12:38 +0000
+// Last updated by: john (123.114.122.250) @ Thu, 24 Apr 2014 14:01:15 +0000
 ?>

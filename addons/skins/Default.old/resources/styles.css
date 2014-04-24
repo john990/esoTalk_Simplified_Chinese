@@ -45,7 +45,7 @@ p, ul, pre {line-height:1.6em}
 #hdr h1 {display:inline; font-size:120%; font-weight:bold; margin:0}
 #hdr h1 img {margin:-20px 0 -14px; display:inline; border:0}
 #hdr-content > a, #hdr-content > h1 a, #hdr-content > ul > li > a {color:#fff}
-#backButton {display:none;margin-right:10px; margin-left:-30px; font-size:20px; line-height:1px; vertical-align:-2px; text-decoration:none}
+#backButton {margin-right:10px; margin-left:-30px; font-size:20px; line-height:1px; vertical-align:-2px; text-decoration:none}
 
 #mainMenu {margin-left:30px; display:inline}
 #userMenu {text-align:right; margin-top:-20px !important; margin-left:250px}
