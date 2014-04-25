@@ -377,7 +377,7 @@ $definitions["Viewing: %s"] = "正在查看: %s";
 $definitions["viewingPosts"] = "<b>%s-%s</b>%s发表的";
 
 $definitions["Warning"] = "出错了!";
-$definitions["Write a reply..."] = "我坚信,评论可以一针见血!";
+$definitions["Write a reply..."] = "发表评论，如果你已经使用了这个码，请告诉大家!";
 
 $definitions["Yes"] = "是";
 $definitions["You can manage channel-specific permissions on the channels page."] = "可以管理节点页面上的特定权限.";
